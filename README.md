@@ -1,5 +1,5 @@
 ## 📌 Important Notice
-This repository is **not open-source**. It is used solely to **store Arkasm release versions** for users to download.  
+This repository is **not open-source**. It is used solely to **store SSM release versions** for users to download.  
 The source code is **not publicly available**.
 
 # Scum Server Manager Lite
