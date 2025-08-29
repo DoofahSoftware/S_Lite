@@ -21,7 +21,7 @@ Manage multiple servers, automate updates, and tweak settings with ease.
 🔹 **[GitHub Releases](https://github.com/DoofahSoftware/S_Lite/releases)**  
 
 ## **Installation 💾**  
-1. **Download the ZIP archive** from [Itch.io](Itch.io](https://creative-digital-design.itch.io/scum-server-manager) or [GitHub Releases](https://github.com/DoofahSoftware/S_Lite/releases).  
+1. **Download the ZIP archive** from [Itch.io](https://creative-digital-design.itch.io/scum-server-manager) or [GitHub Releases](https://github.com/DoofahSoftware/S_Lite/releases).  
 2. **Extract the ZIP file** to a folder of your choice.  
 3. **Run `SSM.exe`** to start managing your Ark: Survival Ascended server.  
 
